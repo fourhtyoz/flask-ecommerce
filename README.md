@@ -1,2 +1,2 @@
 # flask-ecommerce
-Building an e-commerce website to buy and sell textbooks in Flask.
+Building in Flask an e-commerce website to buy and sell textbooks.
